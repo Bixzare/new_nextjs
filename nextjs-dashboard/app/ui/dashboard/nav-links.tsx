@@ -6,7 +6,7 @@ import {
   DocumentDuplicateIcon,
 } from '@heroicons/react/24/outline';
 import { usePathname } from 'next/navigation';
-import Link from 'next/Link';
+import Link from 'next/link';
 import clsx from 'clsx';
 
 // Map of links to display in the side navigation.
